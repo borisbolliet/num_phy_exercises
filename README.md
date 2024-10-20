@@ -1,7 +1,7 @@
-Disclaimer: This is a fork of [Bruno Régaldo-Saint Blancard](https://github.com/bregaldo). 
+**Disclaimer:** This is a fork of [Bruno Régaldo-Saint Blancard](https://github.com/bregaldo). 
 All credit to him. 
 
-The original repository is [here]([[Bruno Régaldo-Saint Blancard](https://github.com/bregaldo)]).
+The original repository is [here](https://github.com/bregaldo/num_phy_exercises).
 
 # Exercises of Numerical Physics
 
